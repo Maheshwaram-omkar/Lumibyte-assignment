@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Top 5 Countries by Population (Sample)",
+    "description": "A small table of countries and populations (mock).",
+    "table": {
+      "columns": [
+        "Country",
+        "Population"
+      ],
+      "rows": [
+        [
+          "China",
+          "1,425,000,000"
+        ],
+        [
+          "India",
+          "1,420,000,000"
+        ],
+        [
+          "United States",
+          "339,000,000"
+        ],
+        [
+          "Indonesia",
+          "277,000,000"
+        ],
+        [
+          "Pakistan",
+          "240,000,000"
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Monthly Sales by Product (Sample)",
+    "description": "Mock monthly sales figures.",
+    "table": {
+      "columns": [
+        "Product",
+        "Jan",
+        "Feb",
+        "Mar"
+      ],
+      "rows": [
+        [
+          "Widget A",
+          "120",
+          "135",
+          "150"
+        ],
+        [
+          "Widget B",
+          "80",
+          "90",
+          "100"
+        ],
+        [
+          "Widget C",
+          "45",
+          "60",
+          "70"
+        ]
+      ]
+    }
+  },
+  {
+    "title": "Employee Directory (Sample)",
+    "description": "Mock list of employees and roles.",
+    "table": {
+      "columns": [
+        "Name",
+        "Role",
+        "Location"
+      ],
+      "rows": [
+        [
+          "Alice Johnson",
+          "Engineer",
+          "Bangalore"
+        ],
+        [
+          "Bob Smith",
+          "Designer",
+          "Remote"
+        ],
+        [
+          "Carla Diaz",
+          "Product",
+          "NYC"
+        ]
+      ]
+    }
+  }
+]
